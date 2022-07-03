@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import "./assets/scss/colors";
 
 body {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Cabin', Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
@@ -9,15 +10,3 @@ body {
   margin: 0;
   padding: 0;
 }
-
-/* // $color-red: #f1252b;
-// $color-yellow: #ffb219;
-// $color-black: #272727;
-// $color-white: #ffffff;
-// $color-green: #00a950;
-// $color-gray: #a0a0a0;
-// $color-gray-200: #b7b4ad;
-// $color-gray-400: #8d8d8d;
-// $color-redred: #bb2d2f;
-// $color-blue: #285dcd;
-// $color-yellow-200: #f3efe6; */

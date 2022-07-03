@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chec/commerce.js": "^2.8.0",
     "@mantine/core": "^4.2.11",
     "@mantine/dates": "^4.2.11",
     "@mantine/dropzone": "^4.2.11",
@@ -21,6 +22,7 @@
     "dayjs": "^1.11.3",
     "formik": "^2.2.9",
     "lodash": "^4.17.21",
+    "node-sass": "^7.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
